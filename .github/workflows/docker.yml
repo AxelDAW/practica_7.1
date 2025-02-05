@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: |
-            AxelDAW/practica_7.1:latest
-            ghcr.io/AxelDAW/practica_7.1:latest
+            axeldaw/practica_7.1:latest
+            ghcr.io/axeldaw/practica_7.1:latest
